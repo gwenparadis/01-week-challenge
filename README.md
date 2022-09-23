@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was completed in order to increase accessibility of the Horiseon webpage, and to both label and consolidate the source code for increased accessibility for further maintenance. This update resolved the bug on the "Search Engine Optimization" link, adds semantics to the HTML, and consolidates the CSS stylesheet by removing or combining class identification elements. This not only increases accessibility for the user, but increases clarity of the code content with updates HTML5 semantics. During this project, I learned about HTML5 semantics, how class and identification tags are used to consolidate the CSS stylesheet, and how to properly deploy a Github repository to Github pages.
+This project was completed in order to increase accessibility of the Horiseon webpage, and to both label and consolidate the source code for increased accessibility for further maintenance. This update resolved the bug on the "Search Engine Optimization" link, added HTML5 semantics to the HTML, and consolidated the CSS stylesheet by removing or combining class identification elements. This not only increases accessibility for the user, but increases clarity of the code for future inspection and bug fixes. During this project, I learned about HTML5 semantics, how class and identification tags are used to consolidate the CSS stylesheet, and how to properly deploy a Github repository to Github pages.
 
 ## Installation
 
