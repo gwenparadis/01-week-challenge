@@ -6,7 +6,7 @@ This project was completed in order to increase accessibility of the Horiseon we
 
 ## Installation
 
-(Ask about this section in office hours)
+The application can be accessed for use at: https://gwenparadis.github.io/01-week-challenge/
 
 ## Usage
 
