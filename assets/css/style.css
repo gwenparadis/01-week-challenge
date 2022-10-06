@@ -1,3 +1,4 @@
+/*general webpage settings*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/*heading, Horiseon branded text style*/
 
 header {
     padding: 20px;
@@ -23,6 +26,8 @@ header h1 {
 header h1 span {
     color: #d9dcd6;
 }
+
+/*Navigation Links style and alignment*/
 
 header nav {
     padding-top: 15px;
@@ -46,6 +51,8 @@ a {
     text-decoration: none;
 }
 
+/*main image settings aligned below header but above main content*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -54,6 +61,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* main content formatting and styling*/
 
 p {
     font-size: 16px;
@@ -92,6 +101,8 @@ main {
     font-size: 36px;
 }
 
+/*Benefits sidebar formatting and styling*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +129,8 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*Footer formatting and styling*/
 
 footer {
     padding: 30px;

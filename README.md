@@ -6,7 +6,9 @@ This project was completed in order to increase accessibility of the Horiseon we
 
 ## Installation
 
-(Ask about this section in office hours)
+The following webpage can be accessed and installed at the following URL: https://gwenparadis.github.io/01-week-challenge/
+
+![Webpage Screenshot](./assets/images/horiseon-pic.png)
 
 ## Usage
 
